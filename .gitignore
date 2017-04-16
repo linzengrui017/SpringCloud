@@ -1,0 +1,11 @@
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### module ###
+.discovery/target
+.service.service/target
+.service2/target
+.gateway/target
